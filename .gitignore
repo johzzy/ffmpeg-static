@@ -1,4 +1,6 @@
 build/
+ffmpeg/out/
+ffmpeg/FFmpeg
 target/
 *.swp
 bin/
